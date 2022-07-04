@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brianlsy98
-- 👀 I’m interested in Robotics
-- 🌱 I’m currently learning Deep Reinforcement Learning
-- 💞️ I’m looking to collaborate on Robotics projects
+- 👀 I’m interested in Circuit Design Automation / Robotics / DeepRL
+- 🌱 I’m currently learning Deep Learning / Reinforcement Learning at RLLAB (SNU)
+- 💞️ I’m looking to collaborate on Circuit Design Automation / Robotics projects
 - 📫 How to reach me : brianlsy98@gmail.com
 
 <!---
